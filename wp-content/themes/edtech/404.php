@@ -1,0 +1,1 @@
+<div id="category-post-content"></div>
